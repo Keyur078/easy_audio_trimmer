@@ -13,7 +13,7 @@ dependencies:
   audioplayers: ^6.1.0
   ffmpeg_kit_flutter:
       git:
-        url: https://github.com/JasonCareter/ffmpeg-kit
+        url: https://github.com/ankitprodev/ffmpeg-kit
         path: flutter/flutter
         ref: main
   intl: ^0.19.0
